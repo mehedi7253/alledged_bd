@@ -1,0 +1,165 @@
+
+@media (min-width: 764px) and (max-width: 1024px) {
+  .package-bg{
+    margin-bottom: 30px;
+  }
+
+  .navbar {
+    padding: 0px;
+    float: right;
+    width: 100%;
+  }
+  .logo{
+    width: 30%;
+  }
+  .navbar-toggler{
+    float: right;
+    width: 100%;
+    padding: 0px;
+    text-align: right;
+    border: none;
+    margin-top: -50px;
+  }
+}
+
+
+@media (min-width: 320px) and (max-width: 640px) {
+
+  .canvers-tst{
+position: absolute;
+z-index: 999;
+top: 15%;
+left: 7% !important;
+color: #fff;}
+
+  .header{
+    display: none;
+  }
+  .menu{
+    display: none;
+  }
+.mobile-version span{
+
+}
+  .header-top {
+    display: none;
+  }
+  #navbar_top{
+    display: none;
+  }
+  .mobile-version{
+    display: block !important;
+    background-color: #177881;
+    padding:10px;
+  }
+  .mobile-version .m-version-logo img{
+    height: 40px !important;
+    width: 100px;
+  }
+ 
+  .navbar {
+    padding: 0px;
+    float: right;
+    width: 100%;
+  }
+
+  .about-button{
+    margin-bottom: 30px;
+  }
+  .why-choose{
+    background: #333 !important;
+  }
+  .times-all{
+    margin-bottom: 30px;
+  }
+  .slider-text {
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: 
+    #1B92CE;
+  }
+  .times {
+    padding: 50px 0px;
+  }
+
+  .slider-text-2 {
+    font-size: 15px;
+  }
+  .banner .carousel-caption {
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    left: 5%;
+    z-index: 10;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: #fff;
+  }
+  .about-us {
+    padding: 50px 0px;
+  }
+  .spach {
+    padding: 50px 0px;
+    background: 
+    #F1F2F2;
+  }
+  .slider-button{
+    display: none;
+  }
+
+  .package-bg{
+    margin-bottom: 30px;
+  }
+
+  #top {
+    overflow: hidden;
+    background-color: 
+    #fff;
+    z-index: 999;
+    width: 100%;
+    position: relative;
+    margin-left: 0%;
+  }
+  .header {
+    padding: 5px 0px;
+  }
+  .logo img {
+    width: 48%;
+    float: left;
+  }
+
+
+  #top a {
+
+    display: block;
+    color: 
+
+    #333;
+    text-align: left;
+
+  }
+
+
+  .navbar-toggler{
+    float: right;
+    width: 100%;
+    padding: 0px;
+    text-align: right;
+    border: none;
+    margin-top: -50px;
+  }
+  .topheader {
+    z-index: 99999;
+    position: relative;
+    width: 100%;
+    background: 
+    #333;
+  }
+
+}
+
+@media (min-width: 900px) and (max-width: 1440px) {
+
+}
+

@@ -1,0 +1,61 @@
+/*
+ * ImageSelect jQuery Plugin
+ *
+ * lgalvin
+ * http://www.liam-galvin.co.uk/imageselect
+ *
+ */
+
+
+ .jqis{
+     position:relative;
+     width: 100%!important;
+     height: auto!important;
+}
+
+ .jqis_header{
+    background: url('../image/arrow-right.png') 0 12px;
+    background-position: right center;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    width: 100%!important;
+    height: 38px!important;
+    background-color: #e2e2e4!important;
+    -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+.clipart-show{
+    width: 100%!important;
+}
+.jqis_header i.mg{
+     cursor:po.inter;
+     opacity: 1!important;
+     height: 36px!important;    
+}
+.jqis_header img{
+    height: 38px!important;
+    opacity: 1!important;
+}
+.jqis_dropdown{
+    padding: 5px;
+    position:absolute;
+    overflow-x:hidden;
+    overflow-y:scroll;
+    width: 100%!important
+}
+.jqis_dropdown .clip-icon{
+    width: 100%;
+    text-align: center;
+}
+.jqis_dropdown img{
+    margin-right:3px;
+    cursor:pointer;
+    width: 100px!important;
+}
+#jq_imageselect_fsc{
+    width: 100%!important;
+}
+#jq_imageselect_fec{
+    width: 100%!important;
+}
